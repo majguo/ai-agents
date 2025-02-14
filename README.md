@@ -50,3 +50,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Additional Resources
 
 For a curated list of awesome AI agents, check out the [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) repository.
+
+For a list of open source AI agent projects, visit the [10+ Open-source AI Agents: Based on GitHub Stars in 2025](https://research.aimultiple.com/open-source-ai-agents/)
